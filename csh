@@ -109,6 +109,8 @@ Enter operator: %
 Enter operand 1: 100
 Enter operand 2: 5
 Result: 100 % 5 = 0
+
+
 2.	Develop a C# program to print Armstrong Number between 1 to 1000.
 
 using System;
@@ -287,6 +289,8 @@ PS D:\Program4> dotnet run
 Division by Zero Exception: Attempted to divide by zero.
 Value at index 2: 3
 
+
+
 5.	Develop a C# program to generate and printPascal Triangle using Two Dimensional arrays.
 
 using System;
@@ -352,6 +356,8 @@ Pascal's Triangle:
 1 3 3 1
 1 4 6 4 1
 
+
+
 6.	Develop a C# program to generate and print Floyds Triangle using Jagged arrays.
 
 using System;
@@ -413,6 +419,7 @@ Enter the number of rows for Floyd's Triangle: 5
 11 12 13 14 15
 
 
+
 7.	Develop a C# program to read a text file and copy the file contents to another text file.
 
 using System;
@@ -458,6 +465,8 @@ D:\Program7\source.txt
 Enter the path of the destination text file:
 D:\Program7\dest.txt
 File content copied successfully!
+
+
 
 8.	 Develop a C# C# Program to Implement Stack with Push and Pop Operations [Hint: Use class, get/set properties, methods for push and pop and main method]
 
@@ -551,6 +560,7 @@ Hello pushed to stack.
 World pushed to stack.
 World popped from stack.
 Popped string: World
+
 
 9.	 Design a class “Complex” with data members, constructor and method for overloading a binary operator ‘+’. Develop a C# program to read Two complex number and Print the results of addition.
 
@@ -721,6 +731,7 @@ Erasing triangle...
 Drawing square...
 Erasing square...
 
+
 11.	Develop a C# program to create an abstract class Shape with abstract methods calculateArea() and calculatePerimeter(). Create subclasses Circle and Triangle that extend the Shape class and implement the
 respective methods to calculate the area and perimeter of each shape.
 
@@ -800,6 +811,8 @@ Circle Area: 78.53981633974483
 Circle Perimeter: 31.41592653589793
 Triangle Area: 6
 Triangle Perimeter: 12
+
+
 
 12.	Develop a C# program to create an interface Resizable with methods resizeWidth(int width) and resizeHeight(int height) that allow an object to be resized. Create a class Rectangle that implements the Resizable interface and implements the resize methods
 
